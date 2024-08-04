@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @minithorr
+- 👀 I’m interested in web design, ux/ui design and front-end development
+- 🌱 I’m currently learning html & css
+- 💞️ I’m looking to collaborate on web design projects
+- 📫 How to reach me https://mahimaroy.framer.ai
+- 😄 Pronouns: she/her
